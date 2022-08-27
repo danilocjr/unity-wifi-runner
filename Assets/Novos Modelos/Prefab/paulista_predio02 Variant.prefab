@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8007643098361962507
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -927199367670048503, guid: 72a2a6e0564719a47afe9b3734e65f37,
+        type: 3}
+      propertyPath: m_Name
+      value: paulista_predio02
+      objectReference: {fileID: 0}
+    - target: {fileID: -6971298693980134091, guid: 72a2a6e0564719a47afe9b3734e65f37,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 27bd9add76059994c94dbb1ee7d1e645, type: 2}
+    - target: {fileID: -4216859302048453862, guid: 72a2a6e0564719a47afe9b3734e65f37,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 18.70603
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 72a2a6e0564719a47afe9b3734e65f37,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 15.773334
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 72a2a6e0564719a47afe9b3734e65f37,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 53.26178
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 72a2a6e0564719a47afe9b3734e65f37,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 72a2a6e0564719a47afe9b3734e65f37,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 72a2a6e0564719a47afe9b3734e65f37,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 72a2a6e0564719a47afe9b3734e65f37,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 72a2a6e0564719a47afe9b3734e65f37,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 72a2a6e0564719a47afe9b3734e65f37,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 72a2a6e0564719a47afe9b3734e65f37,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 72a2a6e0564719a47afe9b3734e65f37,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -35356346635381443, guid: 72a2a6e0564719a47afe9b3734e65f37,
+        type: 3}
+      propertyPath: m_Name
+      value: Paulista_Predio02
+      objectReference: {fileID: 0}
+    - target: {fileID: 6621546157354226367, guid: 72a2a6e0564719a47afe9b3734e65f37,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a244ed93a54b0584aa1983ac89023b64, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 72a2a6e0564719a47afe9b3734e65f37, type: 3}
